@@ -7,7 +7,7 @@ The Blood Donation Project is an initiative aimed at connecting individuals in n
 To contribute to the project, follow the steps below:
 
 1. **Fork the Repository**
-   - Go to the GitHub repository at [https://github.com/Saurav-Pant/Blood-Donation-Project](https://github.com/Saurav-Pant/Blood-Donation-Project).
+   - Go to the GitHub repository at (https://github.com/surendiran-20cl/blood-donation-project).
    - Click on the "Fork" button in the top-right corner of the page.
    - This will create a copy of the repository in your GitHub account.
 
